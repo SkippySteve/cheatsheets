@@ -4,21 +4,6 @@
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/SkippySteve/cheatsheets.svg) 
 
-## Sponsoring
-
-If you like this cheatsheet or find it helpful, please consider buying me a coffee, because it will encourage and help me better maintain the project, I truly appreciate the support!
-
-[![Ko-fi](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-ff5f5f?logo=ko-fi&logoColor=white)](https://ko-fi.com/ruanbekker)
-
-
-## Notes
-
-If you can't find what you are looking for, have a look at my other content:
-
-* [wiki.ruanbekker.com](https://wiki.ruanbekker.com)
-* [blog.ruanbekker.com](https://blog.ruanbekker.com)
-* [sysadmins.co.za](https://sysadmins.co.za)
-
 ## Index
 
 * [Alertmanager](alertmanager/README.md)
