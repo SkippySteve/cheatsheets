@@ -77,10 +77,6 @@
 * [Vim](vim/README.md)
 * [Zipkin](zipkin/README.md)
 
-## External Cheatsheets
-
-- [rpi4cluster.com](https://rpi4cluster.com/)
-
 ## Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/SkippySteve/cheatsheets.svg)](https://starchart.cc/SkippySteve/cheatsheets)
