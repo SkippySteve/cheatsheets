@@ -83,5 +83,5 @@
 
 ## Stargazers over time
 
-[![Stargazers over time](https://starchart.cc/ruanbekker/cheatsheets.svg)](https://starchart.cc/ruanbekker/cheatsheets)
+[![Stargazers over time](https://starchart.cc/SkippySteve/cheatsheets.svg)](https://starchart.cc/SkippySteve/cheatsheets)
 
